@@ -1,7 +1,7 @@
 > This question is relevant for **any project with a backend**
 > (Bridges, Chaos, Circles, Clusters, Unielectives, Freerooms, Notangles).
 
-# DevSoc 2025 Subcommittee Recruitment Frontend Technical
+# DevSoc Subcommittee Recruitment: Frontend
 > **YOU DO NOT NEED TO COMPLETE ALL PARTS.** 
 > Complete the parts that you think best reflect your skills (feel free to do any order).
 

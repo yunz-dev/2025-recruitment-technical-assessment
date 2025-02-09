@@ -1,4 +1,4 @@
-# DevSoc Freerooms Mobile Development 2025 Subcommittee Recruitment Technical Assessment
+# DevSoc Subcommittee Recruitment: Freerooms Mobile Development 
 
 ## **⚠️ IMPORTANT ⚠️**
 

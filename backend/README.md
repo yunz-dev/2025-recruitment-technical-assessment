@@ -1,7 +1,7 @@
-> This question is relevant for **any project with a backend**
-> (Bridges, Chaos, Circles, Clusters, Freerooms, Notangles, Structs, Unielectives).
+> This question is relevant for **any project with a backend (minus chaos)**
+> (Bridges, Circles, Clusters, Freerooms, Notangles, Structs, Unielectives).
 
-# DevSoc Subcommittee Recruitment Backend Technical
+# DevSoc Subcommittee Recruitment: Backend
 
 > **YOU DO NOT NEED TO COMPLETE ALL PARTS.** 
 > Complete the parts that you think best reflect your skills (feel free to do any order).
