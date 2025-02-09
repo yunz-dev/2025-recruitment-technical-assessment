@@ -40,6 +40,6 @@ Please review [CHANGELOG.md](./CHANGELOG.md) for any notable changes to the tech
 
 If you have any questions, feel free to direct questions to:
 
-- Questions forum in the [DevSoc Discord](https://discord.gg/6fnHcuFFtz).
+- [#questions](https://discord.com/channels/1178178680388857867/1199551322219884634) forum in the [DevSoc Discord](https://discord.gg/6fnHcuFFtz).
 - Nicole (`crocyoiin`), Flynn (`flynn123_`), Jackson (`jackson.w`), or any other execs on Discord.
 - `exec@devsoc.app` via email.
