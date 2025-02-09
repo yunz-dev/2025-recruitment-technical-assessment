@@ -20,7 +20,7 @@ You should complete either the [backend](./backend/README.md) **OR** [frontend](
 * Unilectives
 
 ### Chaos
-If you are applying for **Chaos**, you should complete either the [chaos](./chaos/README.md) tasks for backend, **or** the [frontend](./frontend/README.md) tasks.
+If you are applying for **Chaos**, you should complete either the [chaos](./chaos/README.md) **AND** [backend](./backend/README.md) tasks for backend, **OR** the [frontend](./frontend/README.md) tasks.
 
 ### Freerooms
 If you are applying for **Freerooms**, you may optionally choose to complete the [mobile](./mobile/README.md) in addition to the [frontend](./frontend/README.md) or [backend](./backend/README.md) questions.
