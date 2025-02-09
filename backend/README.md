@@ -1,10 +1,10 @@
 > This question is relevant for **any project with a backend**
 > (Bridges, Chaos, Circles, Clusters, Unielectives, Freerooms, Notangles).
 
-# DevSoc Backend Technical Assessment
+# DevSoc Subcommittee Recruitment Backend Technical
 
-> **YOU DO NOT NEED TO COMPLETE ALL PARTS.** Complete the parts that you think best
-> reflect your skills (feel free to do any order).
+> **YOU DO NOT NEED TO COMPLETE ALL PARTS.** 
+> Complete the parts that you think best reflect your skills (feel free to do any order).
 
 ## Background
 
