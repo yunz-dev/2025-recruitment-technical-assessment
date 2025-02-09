@@ -27,5 +27,5 @@ Please review [CHANGLOG.md](./CHANGLOG.md) for any notable changes to the techni
 If you have any questions, feel free to direct questions to:
 
 - Questions forum in the [DevSoc Discord](https://discord.gg/u9p34WUTcs).
-- ASK WHOEVER ON DISCORD on Discord.
+- Any of the Execs on Discord.
 - `exec@devsoc.app` via email.
