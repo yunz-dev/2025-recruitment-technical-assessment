@@ -9,6 +9,15 @@ Note that this repository contains all questions for our technical screening and
 
 See each of the subdirectories (`backend`, `frontend`, `chaos` `freerooms mobile`) for the relevant assessments. Please **carefully** read the submission instructions - if we are unable to access your solutions, we cannot consider them in the recruitment process.
 
+The backend and frontend task specifically if you are applying to the following ports
+* Bridges
+* Circles
+* Clusters
+* Freerooms (not for mobile)
+* Notangles
+* Structs
+* Unilective
+
 If you proceed to the interview stage, you may be questioned and asked to explain various aspects of your code.
 
 Please review [CHANGLOG.md](./CHANGLOG.md) for any notable changes to the technical assessment.
