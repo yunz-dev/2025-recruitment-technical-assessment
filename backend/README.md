@@ -1,5 +1,5 @@
 > This question is relevant for **any project with a backend**
-> (Bridges, Chaos, Circles, Clusters, Unielectives, Freerooms, Notangles).
+> (Bridges, Chaos, Circles, Clusters, Freerooms, Notangles, Unielectives).
 
 # DevSoc Subcommittee Recruitment Backend Technical
 
